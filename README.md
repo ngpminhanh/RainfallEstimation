@@ -6,7 +6,7 @@ The idea is based on this paper: https://www.jstage.jst.go.jp/article/jmsj/97/3/
 
 
 # Guideline
-1. Running RFE.py to have the labels ranking (output is saved to cls_FRE.xlsx file)
+1. Running RFE.py to have the labels ranking using Recursive Feature Elimination method (output is saved to cls_FRE.xlsx file)
 2. Running Classification/TestSplit.ipynb file to split the data into training and testing dataset 
 NOTE: The data is too large and not for public view so if you have any interest you can contact me via email 'ngpminhanh2511@gmail.com"
 3. Running Classication/RandomForestClassification.ipynb to view first two model 
